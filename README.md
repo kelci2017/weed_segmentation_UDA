@@ -17,3 +17,4 @@ Yingchao Huang, Amina E. Hussein, Xin Wang, Abdul Bais, Shanshan Yao, Tanis Wild
 
 ## Note
 The other codes can be found at [Mendeley Dataset](https://data.mendeley.com/datasets/x8brgg2j28/2). You only need to replace the `training_utils.py` file with the one attached here and update other information (e.g., model name, dataset) accordingly. Please train the base model first to use the proposed method.
+I already the previous research group. This is a quick implementation based on my memory, if you find any bug/typo with this code, please let me know.
